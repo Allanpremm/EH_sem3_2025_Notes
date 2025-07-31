@@ -1,4 +1,2 @@
-## 📄 Full Report
-
-➡️ [Linux_Groq_Chatbot_Report.docx](docs/Linux_Groq_Chatbot_Report.docx)
+[📄 Download the Full Report](./1st%20Assignment/docs/Linux_Groq_Chatbot_Report.docx)
 
